@@ -1,6 +1,7 @@
 {
     "name": "felper",
     "version": "0.1.0",
+    "main": "./lib/felper.js",
     "description": "FrontEnd development helper",
     "dependencies": {
         "commander": "1.0.1"
