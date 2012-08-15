@@ -6,5 +6,5 @@
     "dependencies": {
         "commander": "1.0.1"
     },
-    "engine": "node >= 0.6.10"
+    "engine": "node >= 0.8.6"
 }
