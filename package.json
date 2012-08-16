@@ -4,7 +4,8 @@
     "main": "./lib/felper.js",
     "description": "FrontEnd development helper",
     "dependencies": {
-        "commander": "1.0.1"
+        "commander": "1.0.1",
+        "prompt": "0.2.6"
     },
     "engine": "node >= 0.8.6"
 }
