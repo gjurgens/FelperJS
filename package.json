@@ -5,6 +5,8 @@
     "description": "FrontEnd development helper",
     "dependencies": {
         "commander": "1.0.1",
+        "connect": "2.4.3",
+        "http-proxy": "0.8.2",
         "prompt": "0.2.6"
     },
     "engine": "node >= 0.8.6"
